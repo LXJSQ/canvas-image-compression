@@ -1,0 +1,18 @@
+{
+  "name": "canvas-image-compression",
+  "version": "1.0.6",
+  "description": "canvas image compression ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "image",
+    "compression",
+    "front",
+    "brower"
+  ],
+  "author": "steveLiu",
+  "license": "ISC"
+}
